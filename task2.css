@@ -31,7 +31,7 @@ a:hover{
 }
 
 .section1{
-    background-image: url(pics/bg.jpg);
+    background-image: url(pictures/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -149,7 +149,7 @@ p{
 }
 
 .sec3div2{
-    background-image: url(pics/model7.webp);
+    background-image: url(pictures/model7.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
@@ -157,7 +157,7 @@ p{
 }
 
 .sec3div3{
-    background-image: url(pics/model8.jpg);
+    background-image: url(pictures/model8.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
@@ -165,7 +165,7 @@ p{
 }
 
 .sec3div4{
-    background-image: url(pics/model9.jpg);
+    background-image: url(pictures/model9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
